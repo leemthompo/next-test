@@ -17,51 +17,39 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+            I got started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
           <div>
             <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="https://www.linkedin.com/in/liam-thompson-62312624/"
               target="_blank"
               rel="noopener noreferrer"
             >
               By{' '}
-              <Image
-                src="/vercel.svg"
-                alt="Vercel Logo"
-                className={styles.vercelLogo}
-                width={100}
-                height={24}
-                priority
-              />
+              <p><code className={styles.code}>Liam Thompson</code>
+          </p>
             </a>
           </div>
         </div>
 
         <div className={styles.center}>
+        <p><code className={styles.code}>logline</code>
+          </p>
           <Image
             className={styles.logo}
-            src="/next.svg"
+            src="/pencil.svg"
             alt="Next.js Logo"
-            width={180}
-            height={37}
+            width={80}
+            height={370}
             priority
           />
-          <div className={styles.thirteen}>
-            <Image
-              src="/thirteen.svg"
-              alt="13"
-              width={40}
-              height={31}
-              priority
-            />
-          </div>
+          
         </div>
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.logline.fr/docs/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -70,12 +58,12 @@ export default function Home() {
               Docs <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Read examples of documentation written by the logline team.
             </p>
           </a>
 
           <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="LINK"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -89,7 +77,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="LINK"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -103,8 +91,8 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
+          href ="LINK"            
+          className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
